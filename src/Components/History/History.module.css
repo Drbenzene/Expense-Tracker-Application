@@ -1,0 +1,20 @@
+#historyItem {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin: 10px 20px;
+    font-weight: bold;
+}
+
+.container {
+    margin-bottom: 2rem
+}
+
+.credit{
+    border-right: 15px green solid;
+}
+
+.debit {
+    border-right: 15px red solid;
+}

@@ -1,0 +1,21 @@
+.incExp {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin: 0px 1rem;
+}
+.container {
+    margin-bottom: 2rem
+}
+
+.totalBalance {
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    width: 50px;
+    padding: 20px;
+    text-align: center; */
+}
+
+.income{
+    /* border-right: 2px solid rgb(77, 69, 69) */
+}
