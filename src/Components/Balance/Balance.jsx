@@ -20,10 +20,10 @@ function Balance() {
 
   return (
     <div className={Styles.container}>
-        <h1>Expense Tracker</h1>
+        <h2>Expense Tracker</h2>
 
         <div style={{textAlign: "start", marginLeft: "20px"}}>
-            <h2>Your Balance</h2>
+            <h3>Your Balance</h3>
             <h3 className={Styles.totalBalance}>${totalBalance}</h3>
         </div>
         <div className={Styles.incExp}>

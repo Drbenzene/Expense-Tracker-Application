@@ -50,8 +50,8 @@ const Provider = (props) => {
                 text: text,
                 amount: + amount,
             }])
-            setText("Yesssss")
-            setAmount("Yessss")
+            setText("")
+            setAmount("")
             localStorage.setItem("transactions", JSON.stringify(transactions))
         }
     }
