@@ -54,8 +54,6 @@ const Provider = (props) => {
             setAmount("Yessss")
             localStorage.setItem("transactions", JSON.stringify(transactions))
         }
-
-        
     }
 
     const states = {
