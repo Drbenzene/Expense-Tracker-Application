@@ -7,5 +7,4 @@ This project was bootstrapped with with React JS, plain CSS used for styling and
 
 # Link To  Video 
 
-Video Preview
-[![Video Preview](https://www.loom.com/embed/ac7b2f48a0a04e459c40cfed825310b4)](ttps://www.loom.com/embed/ac7b2f48a0a04e459c40cfed825310b4)
+Video Preview [https://www.loom.com/embed/ac7b2f48a0a04e459c40cfed825310b4]
