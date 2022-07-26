@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A EXPENSE TRACKING APPLICATION. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with with React JS, plain CSS used for styling and Local storage for saving user details. 
 
 ## Available Scripts
 
